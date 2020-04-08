@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <title> Darius' Website </title>
+    </head>
+
+
+    <body>
+        <h1> Darius Presley </h1>
+        <h2> About D </h2> 
+        <p> I was born in Federal Way </p> 
+        <p> I am a Sagittarius. Darius the Sagittarius </p> 
+
+        <h2> My fave Sites </h2> 
+            <ul> 
+                <li> 
+                Google 
+                </li> 
+
+                <li> Twitter </li> 
+
+                <li> Reddit </li>
+
+                <li> Amazon </li> 
+            </ul> 
+
+
+    </body>
+</html>
